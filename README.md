@@ -1,12 +1,12 @@
 ## Set up the environment
 
-#### Install dependencies for React Native
+### Install dependencies for React Native
 
 See the *React Native CLI Quickstart* section in this [document](https://reactnative.dev/docs/environment-setup/#Installing-dependencies).
 
 Then, inside the project directory, do a `npm install`.
 
-#### Install plateform dependencies 
+### Install plateform dependencies 
 
 ##### iOS
 
