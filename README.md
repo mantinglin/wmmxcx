@@ -8,7 +8,7 @@ Then, inside the project directory, do a `npm install`.
 
 ### Install plateform dependencies 
 
-##### iOS
+#### iOS
 
 When in the project directory, do:
 
