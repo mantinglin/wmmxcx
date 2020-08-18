@@ -1,4 +1,4 @@
-# Put proposed commit title here (#PR)
+# Put proposed commit title here (Check (#PR) at the end commit message before merge)
 ## Description
 Describe the change and the context here 
 ## Issues
