@@ -7,7 +7,8 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "devtools": "react-devtools"
   },
   "dependencies": {
     "@eva-design/eva": "^2.0.0",
@@ -17,6 +18,7 @@
     "@ui-kitten/components": "^5.0.0",
     "react": "16.13.1",
     "react-native": "0.63.2",
+    "react-native-calendars": "^1.314.0",
     "react-native-gesture-handler": "^1.7.0",
     "react-native-reanimated": "^1.13.0",
     "react-native-safe-area-context": "^3.1.4",
@@ -32,6 +34,7 @@
     "eslint": "^6.5.1",
     "jest": "^25.1.0",
     "metro-react-native-babel-preset": "^0.59.0",
+    "react-devtools": "^4.8.2",
     "react-test-renderer": "16.13.1"
   },
   "jest": {

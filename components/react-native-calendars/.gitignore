@@ -1,6 +1,10 @@
-# VSCode
-#
+node_modules
+npm-debug.log
+.idea
+yarn.lock
 .vscode
+package-lock.json
+
 
 # OSX
 #
@@ -24,6 +28,7 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+# project.xcworkspace
 
 # Android/IntelliJ
 #
@@ -50,17 +55,11 @@ buck-out/
 # It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
 # screenshots whenever they are needed.
 # For more information about the recommended setup visit:
-# https://docs.fastlane.tools/best-practices/source-control/
+# https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Gitignore.md
 
-*/fastlane/report.xml
-*/fastlane/Preview.html
-*/fastlane/screenshots
-
-# Bundle artifact
-*.jsbundle
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
 
 # CocoaPods
-/ios/Pods/
-
-# expo
-.expo
+ios/Pods

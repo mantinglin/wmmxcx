@@ -1,10 +1,10 @@
 import React from 'react';
-import { Layout, Text } from '@ui-kitten/components';
+import { Layout, Text } from '@ui-kitten/components'; 1
+import { MonthlyView } from './MonthlyView';
 
 export default function MonthlyCalenderView() {
   return (
-    <Layout style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>日历月视图</Text>
-    </Layout>
+    <MonthlyView />
+    // <Text>texthere</Text>
   );
 }
