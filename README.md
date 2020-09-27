@@ -4,7 +4,7 @@
 
 See the *React Native CLI Quickstart* section in this [document](https://reactnative.dev/docs/environment-setup/#Installing-dependencies).
 
-Then, inside the project directory, do a `npm install`.
+Then, inside the project directory, do a `yarn install`.
 
 ### Install plateform dependencies 
 
